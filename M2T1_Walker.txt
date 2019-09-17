@@ -1,0 +1,26 @@
+#M2T1
+#Christian Walker
+#9/17/2019
+#Two Integer Addition
+
+#Declare variables
+#Declare integer i1
+#Declare integer i2
+
+#Display Calculator Instructions
+
+
+#Display "Enter First Integer" then input i1
+
+
+#Display "Enter Second Integer" the input i2
+
+
+#Add i1 and i2 to get Sum
+
+
+#Display i1 + i2
+
+
+#Display Sum
+
